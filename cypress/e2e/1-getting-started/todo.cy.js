@@ -142,11 +142,3 @@ describe('example to-do app', () => {
     })
   })
 })
-
-
-cy.get
-cy.should - make assertion
-
-cy.visit - go to a URL
-cy.request - make http call
-cy.intercept - check a response or maybe inject a fixture in
